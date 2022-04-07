@@ -2,7 +2,7 @@
   "moduleFileExtensions": ["js", "json", "ts"],
   "rootDir": ".",
   "testEnvironment": "node",
-   "setupFilesAfterEnv": ["./tests/jestSetupAfterEnv.ts"],
+хуй   "setupFilesAfterEnv": ["./tests/jestSetupAfterEnv.ts"],
   "globalSetup": "<rootDir>/tests/jestGlobalSetup.ts",
   "testRegex": ".e2e-spec.ts$",
       }
